@@ -30,11 +30,17 @@ https://mp.weixin.qq.com/wxamp/index/index
 
 登录-开发-开发设置-消息推送
 
-[](https://raw.githubusercontent.com/guyan0319/xcx-msg/master/images/xcx02.png)
+![](https://raw.githubusercontent.com/guyan0319/xcx-msg/master/images/xcx02.png)
+
+
+
+
 
 点击“启动”
 
-[](https://raw.githubusercontent.com/guyan0319/xcx-msg/master/images/xcx03.png)
+![](https://raw.githubusercontent.com/guyan0319/xcx-msg/master/images/xcx03.png)
+
+
 
 **URL(服务器地址)**：填开发者服务器对应的url，如 https://xxxxxx/demo.php
 
